@@ -6,7 +6,7 @@
     <string name="gawb_user_bg_a_key_0">0.639250</string>
     <string name="pref_double_tap_key">zoom</string>
     <string name="key_promote_launch_wear">0</string>
-    <string name="pref_last_installed_version_code">66263576</string>
+    <string name="pref_last_installed_version_code">66263650</string>
     <string name="gawb_user_bg_a_key_3">0.742210</string>
     <string name="gawb_user_bg_a_key_2">0.789995</string>
     <string name="pt_ft_key">1</string>
@@ -17,8 +17,11 @@
     <string name="pref_satCCT_G_3">1.0</string>
     <boolean name="beholder_enabled" value="true" />
     <string name="ses_autofps_id_key_2">32772</string>
+    <string name="expcomp_key_1">0</string>
     <string name="ses_autofps_id_key_1">32772</string>
+    <string name="expcomp_key_2">0</string>
     <string name="ses_autofps_id_key_3">32772</string>
+    <string name="expcomp_key_0">0</string>
     <string name="fix_saturation_key_3">1</string>
     <string name="pref_switch_to_previous_mode_command_string">71</string>
     <boolean name="camera.hawk_tpu_enabled" value="false" />
@@ -47,12 +50,16 @@
     <string name="pref_R_hue_3">0.0</string>
     <string name="pref_R_hue_2">0.0</string>
     <string name="gawb_user_bg_f_key_0">0.302108</string>
+    <string name="c_c_m_quality_key_2">0</string>
+    <string name="c_c_m_quality_key_3">0</string>
     <string name="gawb_user_rg_b_key_0">0.413309</string>
     <string name="dev_setting_filter_key">camera.rul</string>
     <string name="gawb_user_rg_b_key_1">0.485780</string>
     <string name="gawb_user_rg_b_key_2">0.434539</string>
     <boolean name="camera.dynamic_front_4K" value="false" />
     <string name="gawb_user_rg_b_key_3">0.431790</string>
+    <string name="c_c_m_quality_key_0">0</string>
+    <string name="c_c_m_quality_key_1">0</string>
     <string name="gawb_user_rg_i_key_2"></string>
     <string name="gawb_user_rg_i_key_3"></string>
     <string name="gawb_user_rg_i_key_0"></string>
@@ -79,6 +86,7 @@
     <string name="pref_video_stab_button_untouched_count">6</string>
     <string name="ses_120fps_id_key_0"></string>
     <int name="tooltip_impression_trigger_count_for_long_exposure_smarts_chip" value="0" />
+    <string name="pref_social_app_com_google_android_apps_messaging">0</string>
     <boolean name="force_cpu_processing" value="false" />
     <boolean name="autotimer_tutorial_shown" value="true" />
     <string name="pref_camera_gawb_f_photo">1</string>
@@ -118,19 +126,24 @@
     <string name="pref_camera_dynamic_depth_enabled_key">0</string>
     <string name="pref_has_shown_longp_education">0</string>
     <string name="pref_camera_picturesize_front_key"></string>
-    <string name="pref_camera_grid_lines_mode">0</string>
+    <string name="pref_camera_grid_lines_mode">3</string>
+    <string name="c_c_a_m_quality_key_2">0</string>
+    <string name="c_c_a_m_quality_key_3">0</string>
+    <string name="c_c_a_m_quality_key_0">0</string>
+    <string name="c_c_a_m_quality_key_1">0</string>
     <string name="pref_imax_audio_enabled_key">0</string>
     <string name="gawb_user_bg_d_key_3">0.498575</string>
     <string name="gawb_user_bg_d_key_1">0.435650</string>
     <string name="gawb_user_bg_d_key_2">0.548358</string>
     <string name="gawb_user_bg_d_key_0">0.431087</string>
     <string name="pref_camera_gawb_b_portrait">1</string>
-    <string name="pref_social_app_com_facebook_orca">1</string>
+    <string name="pref_social_app_com_facebook_orca">0</string>
     <string name="pref_camera_beholder_example_percent_key">-1</string>
     <string name="pref_camera_enable_iris">1</string>
     <string name="pref_has_checked_ornament_mode">0</string>
     <string name="gawb_user_rg_k_key_0"></string>
     <string name="pref_first_time_video_stab_tooltip">1</string>
+    <string name="sdk_ver_key">0</string>
     <string name="gawb_user_rg_k_key_1"></string>
     <string name="pref_taxi_state">1</string>
     <string name="gawb_user_rg_k_key_2"></string>
@@ -174,7 +187,7 @@
     <string name="gawb_user_bg_e_key_2">0.548474</string>
     <string name="pref_switch_to_next_mode_command_string">72</string>
     <string name="gawb_user_bg_e_key_3">0.500129</string>
-    <string name="pref_social_app_com_instagram_android">1</string>
+    <string name="pref_social_app_com_instagram_android">0</string>
     <string name="pref_video_fps_cm_key">FPS_30</string>
     <string name="pref_satCCT_R_2">1.0</string>
     <string name="pref_satCCT_R_3">1.0</string>
@@ -184,19 +197,21 @@
     <string name="pref_satCCT_B_2">1.0</string>
     <string name="pref_satCCT_B_3">1.0</string>
     <string name="gawb_user_bg_b_key_0">0.692049</string>
-    <string name="key_social_share_opt_in">1</string>
+    <string name="key_social_share_opt_in">0</string>
     <string name="gawb_user_bg_b_key_2">0.853861</string>
+    <string name="pref_social_app_com_google_android_youtube">0</string>
     <string name="gawb_user_bg_b_key_1">0.693519</string>
     <string name="gawb_user_bg_b_key_3">0.828801</string>
     <string name="gawb_user_rg_l_key_2"></string>
     <string name="gawb_user_rg_l_key_1"></string>
-    <string name="key_ff_opt_in">0</string>
+    <string name="key_ff_opt_in">1</string>
     <string name="gawb_user_rg_l_key_0"></string>
     <string name="pref_has_checked_dual_ev_shadow">0</string>
     <string name="pref_satCCT_R_0">1.0</string>
     <string name="pref_satCCT_R_1">1.0</string>
+    <string name="expcomp_key_3">0</string>
     <boolean name="camcorder.amethyst_opt" value="false" />
-    <string name="perf_has_run_education">1685546894848</string>
+    <string name="perf_has_run_education">1686663253790</string>
     <string name="gawb_user_rg_m_key_3"></string>
     <string name="gawb_user_rg_m_key_2"></string>
     <string name="pref_satCCT_B_0">1.0</string>
@@ -217,7 +232,11 @@
     <string name="shasta_key_1">1</string>
     <string name="shasta_key_2">0</string>
     <string name="pref_has_checked_gouda_mode">1</string>
+    <string name="n_r_m_quality_key_2">0</string>
+    <string name="n_r_m_quality_key_3">0</string>
+    <string name="n_r_m_quality_key_0">0</string>
     <string name="pref_global_hue_3">0.0</string>
+    <string name="n_r_m_quality_key_1">0</string>
     <boolean name="camera_vision_kit_acceleration_enabled" value="true" />
     <string name="pref_camera_gawb_b_ns">1</string>
     <string name="pv_ft_key">1</string>
@@ -237,10 +256,15 @@
     <string name="pref_camera_picturesize_back_key"></string>
     <string name="pref_camera_back_flashmode_key">off</string>
     <string name="gawb_user_rg_h_key_3">0.547387</string>
+    <string name="pref_social_app_org_telegram_messenger">0</string>
     <string name="gawb_user_rg_h_key_1">0.664580</string>
     <string name="pref_has_hdr_tooltip_shown">1</string>
     <string name="gawb_user_rg_h_key_2">0.620207</string>
     <string name="gawb_user_rg_h_key_0">0.528837</string>
+    <string name="e_m_quality_key_1">0</string>
+    <string name="e_m_quality_key_0">0</string>
+    <string name="e_m_quality_key_3">0</string>
+    <string name="e_m_quality_key_2">0</string>
     <string name="pref_camera_video_back_flashmode_thermally_disabled_key">0</string>
     <string name="gawb_user_rg_o_key_1"></string>
     <string name="gawb_user_rg_o_key_0"></string>
@@ -259,7 +283,11 @@
     <string name="key_aspect_ratio">1</string>
     <string name="pref_camera_video_back_flashmode_key">off</string>
     <string name="galley_key"></string>
+    <string name="t_m_quality_key_0">0</string>
+    <string name="t_m_quality_key_2">0</string>
     <string name="ses_tl_id_key_3"></string>
+    <string name="t_m_quality_key_1">0</string>
+    <string name="t_m_quality_key_3">0</string>
     <string name="gawb_user_rg_c_key_2">0.799962</string>
     <string name="gawb_user_rg_c_key_3">0.758238</string>
     <string name="gawb_user_rg_c_key_0">0.704531</string>
@@ -267,12 +295,16 @@
     <string name="pref_af_mode_front">0</string>
     <string name="pref_has_set_social_share_apps">1</string>
     <string name="pref_upgrade_version">24</string>
+    <string name="wl_key_2">0</string>
+    <string name="wl_key_3">0</string>
+    <string name="wl_key_0">0</string>
+    <string name="wl_key_1">0</string>
     <string name="pref_video_fps_4k_key">FPS_60</string>
     <boolean name="camera.imax_hdrnet_input" value="true" />
     <string name="pref_first_time_video_stab_edu">1</string>
     <string name="hwlevel_key">6</string>
     <string name="ses_30fps_id_key_3">32782</string>
-    <string name="pref_camera_recordlocation_key">0</string>
+    <string name="pref_camera_recordlocation_key">1</string>
     <string name="preview_key_0">35</string>
     <string name="preview_key_1">0</string>
     <string name="preview_key_2">0</string>
@@ -315,7 +347,11 @@
     <string name="gawb_user_bg_o_key_3"></string>
     <string name="gawb_user_bg_o_key_0"></string>
     <string name="gawb_user_bg_o_key_1"></string>
+    <string name="s_m_quality_key_3">0</string>
     <string name="max_hdr_plus_imagereader_image_count">35</string>
+    <string name="s_m_quality_key_2">0</string>
+    <string name="s_m_quality_key_1">0</string>
+    <string name="s_m_quality_key_0">0</string>
     <string name="pref_customCCT3_0"></string>
     <string name="device_hdrplus_key_3">blueline</string>
     <string name="device_hdrplus_key_2">blueline</string>
@@ -353,30 +389,53 @@
     <string name="pref_exposure_control_key">1</string>
     <string name="ses_hdr10_id_key_0">61442</string>
     <boolean name="scene_detection_enabled" value="true" />
+    <string name="antibanding_key_0">0</string>
+    <string name="antibanding_key_1">0</string>
+    <string name="antibanding_key_2">0</string>
+    <string name="antibanding_key_3">0</string>
     <string name="camera.zoom_slider_extra_dot"></string>
     <string name="pref_has_checked_tiara_mode">0</string>
     <string name="ses_60fps_id_key_3">32782</string>
     <string name="ses_60fps_id_key_2">32772</string>
     <string name="gawb_user_bg_n_key_0"></string>
+    <string name="h_p_m_quality_key_0">0</string>
+    <string name="h_p_m_quality_key_1">0</string>
     <string name="ses_60fps_id_key_1">32781</string>
+    <string name="h_p_m_quality_key_2">0</string>
     <string name="ses_60fps_id_key_0">32772</string>
+    <string name="h_p_m_quality_key_3">0</string>
     <string name="pref_camera_cd_indicator_enabled_key">1</string>
+    <string name="bl_key_1">0</string>
+    <string name="bl_key_2">0</string>
+    <string name="bl_key_3">0</string>
     <string name="pref_customCCT5_0"></string>
-    <string name="pref_social_app_com_facebook_katana">1</string>
+    <string name="pref_social_app_com_facebook_katana">0</string>
+    <string name="bl_key_0">0</string>
     <string name="ses_240fps_id_key_2"></string>
     <string name="ses_240fps_id_key_3"></string>
     <string name="pref_customCCT6_0"></string>
     <string name="ses_240fps_id_key_0"></string>
     <string name="ses_240fps_id_key_1"></string>
+    <string name="pref_has_checked_social_share_toggle">1</string>
     <string name="gawb_user_bg_n_key_1"></string>
     <string name="active_cam_id_front_key">1</string>
     <string name="gawb_user_bg_n_key_2"></string>
     <string name="gawb_user_bg_n_key_3"></string>
     <string name="gawb_user_rg_a_key_0">0.436805</string>
     <string name="gawb_user_rg_a_key_1">0.524100</string>
+    <string name="c_f_a_key_3">0</string>
+    <string name="pref_social_app_com_whatsapp">0</string>
     <string name="gawb_user_rg_a_key_2">0.469734</string>
     <string name="gawb_user_rg_a_key_3">0.470588</string>
+    <string name="d_c_m_quality_key_0">0</string>
+    <string name="pref_social_app_org_thoughtcrime_securesms">0</string>
+    <string name="d_c_m_quality_key_3">0</string>
+    <string name="d_c_m_quality_key_2">0</string>
+    <string name="d_c_m_quality_key_1">0</string>
+    <string name="c_f_a_key_1">0</string>
     <string name="custom_cct_on_0">0</string>
+    <string name="c_f_a_key_2">0</string>
+    <string name="c_f_a_key_0">0</string>
     <string name="perf_has_run_second_education">1</string>
     <string name="pref_dirty_lens_detector_key">1</string>
     <string name="pref_customCCT7_0"></string>
