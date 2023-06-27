@@ -27,16 +27,16 @@
     <string name="expcomp_key_1">0</string>
     <string name="expcomp_key_2">0</string>
     <string name="ses_autofps_id_key_1"></string>
-    <string name="01EDC1D4A_a_3f80_0000_pthcr_key_0">9.0</string>
+    <string name="01EDC1D4A_a_3f80_0000_pthcr_key_0">11.0</string>
     <string name="expcomp_key_0">0</string>
     <string name="ses_autofps_id_key_3"></string>
     <string name="fix_saturation_key_3">1</string>
     <string name="user_nm_d2_key_2">4.551563162745398E-7</string>
-    <string name="01EDC1D4A_a_3f80_0000_pthcr_key_3">10.0</string>
+    <string name="01EDC1D4A_a_3f80_0000_pthcr_key_3">15.0</string>
     <string name="user_nm_d2_key_1">6.662466882279819E-7</string>
-    <string name="01EDC1D4A_a_3f80_0000_pthcr_key_1">4.5</string>
+    <string name="01EDC1D4A_a_3f80_0000_pthcr_key_1">8.0</string>
     <string name="user_nm_d2_key_3">6.662466882279819E-7</string>
-    <string name="01EDC1D4A_a_3f80_0000_pthcr_key_2">12.0</string>
+    <string name="01EDC1D4A_a_3f80_0000_pthcr_key_2">15.0</string>
     <string name="01EDC074E_a_3f80_0000_pthcr_key_0">1.0</string>
     <string name="pref_switch_to_previous_mode_command_string">71</string>
     <string name="user_nm_d2_key_0">2.561023734417534E-7</string>
@@ -64,7 +64,7 @@
     <string name="gawb_user_bg_f_key_1">0.304300</string>
     <string name="gawb_user_bg_f_key_2">0.385859</string>
     <string name="gawb_user_bg_m_key_2"></string>
-    <string name="01EDC210A_a_3f80_0000_pthcr_key_0">8.0</string>
+    <string name="01EDC210A_a_3f80_0000_pthcr_key_0">12.0</string>
     <string name="gawb_user_bg_m_key_3"></string>
     <string name="pref_R_hue_1">0.0</string>
     <string name="user_nm_b1_key_0">7.193560166620833E-7</string>
@@ -81,8 +81,8 @@
     <string name="01EDC210A_a_3f80_0000_pthcr_key_2">10.0</string>
     <string name="01EDC210A_a_3f80_0000_pthcr_key_1">10.0</string>
     <string name="gawb_user_rg_b_key_0">0.413309</string>
-    <string name="dev_setting_filter_key">zoom</string>
-    <string name="01EDC210A_a_3f80_0000_pthcr_key_3">4.0</string>
+    <string name="dev_setting_filter_key">4</string>
+    <string name="01EDC210A_a_3f80_0000_pthcr_key_3">6.0</string>
     <string name="gawb_user_rg_b_key_1">0.485780</string>
     <string name="gawb_user_rg_b_key_2">0.434539</string>
     <string name="c_c_m_quality_key_0">3</string>
@@ -91,6 +91,7 @@
     <string name="on_pthcr_key">1</string>
     <string name="gawb_user_rg_i_key_2"></string>
     <string name="gawb_user_rg_i_key_3"></string>
+    <boolean name="camcorder.4k_8k_60fps" value="true" />
     <string name="gawb_user_rg_i_key_0"></string>
     <string name="pref_camera_selfie_mirror_key">1</string>
     <string name="gawb_user_rg_i_key_1"></string>
@@ -113,7 +114,7 @@
     <string name="ses_120fps_id_key_1"></string>
     <string name="ses_120fps_id_key_3"></string>
     <long name="tooltip_latest_impression_timestamp_for_auto_timelapse_tooltip" value="1687445777752" />
-    <string name="pref_video_stab_button_untouched_count">9</string>
+    <string name="pref_video_stab_button_untouched_count">7</string>
     <string name="ses_120fps_id_key_0"></string>
     <string name="pref_social_app_com_google_android_apps_messaging">0</string>
     <boolean name="autotimer_tutorial_shown" value="true" />
@@ -313,7 +314,7 @@
     <string name="pref_satCCT_B_0">1.0</string>
     <boolean name="camera.auto_fps_default" value="false" />
     <string name="pref_satCCT_B_1">1.0</string>
-    <long name="tooltip_latest_impression_timestamp_for_try_washington_tooltip" value="1687880490626" />
+    <long name="tooltip_latest_impression_timestamp_for_try_washington_tooltip" value="1687897629958" />
     <string name="gawb_user_bg_c_key_3">0.397358</string>
     <string name="gawb_user_bg_c_key_2">0.458371</string>
     <string name="gawb_user_bg_c_key_1">0.366150</string>
@@ -336,7 +337,7 @@
     <string name="pref_global_hue_3">0.0</string>
     <string name="n_r_m_quality_key_1">3</string>
     <boolean name="camera_vision_kit_acceleration_enabled" value="true" />
-    <string name="hdr_net_key">0</string>
+    <string name="hdr_net_key">1</string>
     <boolean name="camera.front_torch_request" value="true" />
     <boolean name="camera.mts_full_res_ls" value="true" />
     <string name="pv_ft_key">1</string>
@@ -486,7 +487,7 @@
     <boolean name="camera.autotimer_accel_tpu" value="true" />
     <boolean name="camera.falcon_power_hint" value="true" />
     <boolean name="camera.adaptive_vesper" value="true" />
-    <int name="tooltip_impression_count_for_try_washington_tooltip" value="17" />
+    <int name="tooltip_impression_count_for_try_washington_tooltip" value="19" />
     <boolean name="camera.ddepth_rear" value="true" />
     <string name="slow_mo_fix_0">1</string>
     <string name="pref_release_dialog_last_shown_version"></string>
@@ -501,7 +502,7 @@
     <string name="surfase_list_key_0">3</string>
     <string name="surfase_list_key_2">3</string>
     <string name="surfase_list_key_1">3</string>
-    <int name="tooltip_impression_trigger_count_for_astro_smarts_chip" value="2" />
+    <int name="tooltip_impression_trigger_count_for_astro_smarts_chip" value="3" />
     <boolean name="camcorder.3a_metadata" value="true" />
     <int name="tooltip_impression_count_for_micro_tutorial_dismiss" value="1" />
     <string name="camcorder.max_zoom_hfr">7.0</string>
@@ -616,11 +617,11 @@
     <string name="pref_has_checked_lens_mode">0</string>
     <boolean name="camera.immersive_cropped_aspect_ratio" value="true" />
     <boolean name="mn_enabled" value="true" />
-    <string name="pref_camera_dirty_lens_history_key0">-17.0|-0.449025|-0.8604963|-4.7249336|-7.631346|-0.8055178|-1.8196592|-2.2252095|-3.06647|-1.6101509|2.2810495|2.4365172|</string>
-    <string name="pref_camera_dirty_lens_history_key1">-17.0|-3.2668035|-2.0055897|4.46922|2.8754113|</string>
-    <string name="pref_camera_dirty_lens_history_key2">-4.6412907|-2.9752655|-2.9976501|-5.122014|0.8158262|-0.010400064|-1.0744568|-2.5703416|-2.835857|-4.2995353|-5.523761|0.86707103|-0.88764876|-3.2671866|-1.5057619|-3.4797342|</string>
+    <string name="pref_camera_dirty_lens_history_key0">-17.0|2.884974|3.7820961|-3.6259973|2.5143883|</string>
+    <string name="pref_camera_dirty_lens_history_key1">-17.0|-3.2668035|-2.0055897|4.46922|2.8754113|1.0076396|-0.15225825|</string>
+    <string name="pref_camera_dirty_lens_history_key2">-4.6412907|-2.9752655|-2.9976501|-5.122014|0.8158262|-0.010400064|-1.0744568|-2.5703416|-2.835857|-4.2995353|-5.523761|0.86707103|-0.88764876|-3.2671866|-1.5057619|-3.4797342|-4.1118155|-0.2859466|3.3250742|</string>
     <string name="lens_wl_key"></string>
-    <string name="pref_camera_dirty_lens_history_key3">-17.0|-4.376432|-3.681506|4.273594|-5.2570386|0.22725171|3.033986|</string>
+    <string name="pref_camera_dirty_lens_history_key3">-17.0|-4.376432|-3.681506|4.273594|-5.2570386|0.22725171|3.033986|0.27023494|1.0744071|0.0714841|-0.3353879|0.2518689|</string>
     <boolean name="camera.mts_smartcapturenet_2" value="true" />
     <string name="pref_video_resolution">RES_1080P</string>
     <string name="user_nm_a2_key_3">2.682315890739256E-6</string>
