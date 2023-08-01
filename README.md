@@ -35,7 +35,7 @@ Welcome to the library of all collected configs for the Xiaomi 12X!
 
 ## Phone Picture
 <picture>
- <img alt="Xiaomi 12X" src="https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-12x-1.jpg" width="350" height="400">
+ <img alt="Xiaomi 12X" src="https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-12x-1.jpg" width="308.626198083" height="400">
   </picture>
 
 ## Links
