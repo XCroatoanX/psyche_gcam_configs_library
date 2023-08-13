@@ -3,6 +3,7 @@
     <boolean name="use_physical_raw" value="true" />
     <string name="01EDC088A_a_bf80_0000_pthcr_key_0">-1.0</string>
     <string name="ses_autofps_id_key_0">61444</string>
+    <string name="CCT_WB_intensity_0">1.0</string>
     <string name="pref_has_checked_lasagna_mode">0</string>
     <string name="gawb_user_bg_a_key_1">0.636030</string>
     <string name="gawb_user_bg_a_key_0">0.639250</string>
@@ -93,7 +94,7 @@
     <string name="01EDC210A_a_3f80_0000_pthcr_key_2">6.0</string>
     <string name="01EDC210A_a_3f80_0000_pthcr_key_1">7.0</string>
     <string name="gawb_user_rg_b_key_0">0.413309</string>
-    <string name="dev_setting_filter_key">ois</string>
+    <string name="dev_setting_filter_key"></string>
     <string name="01EDC210A_a_3f80_0000_pthcr_key_3">9.0</string>
     <string name="gawb_user_rg_b_key_1">0.485780</string>
     <string name="gawb_user_rg_b_key_2">0.434539</string>
@@ -103,9 +104,11 @@
     <string name="on_pthcr_key">1</string>
     <string name="gawb_user_rg_i_key_2"></string>
     <string name="gawb_user_rg_i_key_3"></string>
+    <boolean name="finish_long_shot_capture" value="true" />
     <string name="gawb_user_rg_i_key_0"></string>
     <string name="pref_camera_selfie_mirror_key">1</string>
     <string name="gawb_user_rg_i_key_1"></string>
+    <string name="pref_has_seen_vertical_pano_hint">1</string>
     <string name="gawb_user_bg_m_key_0"></string>
     <string name="gawb_user_bg_m_key_1"></string>
     <string name="user_nm_b3_key_3">7.6267061661234736E-6</string>
@@ -125,10 +128,11 @@
     <string name="ses_120fps_id_key_1"></string>
     <string name="ses_120fps_id_key_3"></string>
     <long name="tooltip_latest_impression_timestamp_for_auto_timelapse_tooltip" value="1687445777752" />
-    <string name="pref_video_stab_button_untouched_count">4</string>
+    <string name="pref_video_stab_button_untouched_count">2</string>
     <string name="ses_120fps_id_key_0">61444</string>
     <string name="pref_social_app_com_google_android_apps_messaging">0</string>
     <boolean name="autotimer_tutorial_shown" value="true" />
+    <string name="pref_camera_gawb_f_photo">1</string>
     <string name="perf_has_shown_options_bar">1</string>
     <string name="gawb_user_rg_g_key_3">0.507640</string>
     <string name="gawb_user_rg_g_key_2">0.524206</string>
@@ -158,6 +162,7 @@
     <string name="gawb_user_bg_h_key_1">0.440640</string>
     <string name="gawb_user_bg_h_key_0">0.423592</string>
     <string name="pref_camera_raw_output_option_available_key">1</string>
+    <string name="pref_camera_front_flashmode_key">ns</string>
     <string name="perf_has_run_first_education">1</string>
     <boolean name="camera.enable_imax" value="true" />
     <boolean name="portrait_enable_gpu_boost" value="false" />
@@ -184,9 +189,10 @@
     <string name="pref_camera_dynamic_depth_enabled_key">0</string>
     <string name="pref_has_shown_longp_education">0</string>
     <string name="01F65408_null_pthcr_key_0">0</string>
-    <string name="pref_camera_picturesize_front_key">3264x2448</string>
+    <string name="pref_camera_picturesize_front_key"></string>
     <boolean name="camcorder.log_3a" value="true" />
     <string name="pref_camera_grid_lines_mode">3</string>
+    <string name="max_allowed_native_memory_mb">8192</string>
     <string name="c_c_a_m_quality_key_2">3</string>
     <string name="c_c_a_m_quality_key_3">3</string>
     <string name="c_c_a_m_quality_key_0">3</string>
@@ -196,9 +202,10 @@
     <string name="gawb_user_bg_d_key_1">0.435650</string>
     <string name="gawb_user_bg_d_key_2">0.548358</string>
     <string name="gawb_user_bg_d_key_0">0.431087</string>
-    <string name="max_allowed_allocator_memory_mb">1400</string>
+    <string name="max_allowed_allocator_memory_mb">8192</string>
+    <string name="pref_camera_gawb_b_portrait">0</string>
     <string name="gouda_doubletap_zoom_factor">1.0</string>
-    <int name="tooltip_impression_count_for_pref_ext_mic_bluetooth_chip_display_count" value="56" />
+    <int name="tooltip_impression_count_for_pref_ext_mic_bluetooth_chip_display_count" value="58" />
     <string name="026369E4_fmov_4108_0000_pthcr_key_3">8.5</string>
     <string name="026369E4_fmov_4108_0000_pthcr_key_2">8.5</string>
     <string name="026369E4_fmov_4108_0000_pthcr_key_1">8.5</string>
@@ -242,6 +249,7 @@
     <string name="user_nm_pthcr_key_3">1</string>
     <string name="user_nm_c2_key_0">4.864909038730924E-11</string>
     <string name="user_nm_pthcr_key_2">1</string>
+    <string name="cct_wb_key_0">0</string>
     <boolean name="camera.front_lens_indicator" value="true" />
     <boolean name="camcorder.front_4k" value="true" />
     <boolean name="camcorder.sync_fps" value="true" />
@@ -339,7 +347,7 @@
     <string name="expcomp_key_3">0</string>
     <string name="user_nm_d0_key_0">4.8013736645568E-7</string>
     <string name="user_nm_d0_key_1">3.275624181535426E-7</string>
-    <string name="perf_has_run_education">1689694048515</string>
+    <string name="perf_has_run_education">1690129942583</string>
     <string name="user_nm_d0_key_2">5.366521414374711E-7</string>
     <string name="gawb_user_rg_m_key_3"></string>
     <string name="user_nm_d0_key_3">3.275624181535426E-7</string>
@@ -347,7 +355,7 @@
     <string name="pref_satCCT_B_0">1.0</string>
     <boolean name="camera.auto_fps_default" value="false" />
     <string name="pref_satCCT_B_1">1.0</string>
-    <long name="tooltip_latest_impression_timestamp_for_try_washington_tooltip" value="1689262361637" />
+    <long name="tooltip_latest_impression_timestamp_for_try_washington_tooltip" value="1689786995351" />
     <string name="gawb_user_bg_c_key_3">0.397358</string>
     <string name="gawb_user_bg_c_key_2">0.458371</string>
     <string name="gawb_user_bg_c_key_1">0.366150</string>
@@ -373,7 +381,7 @@
     <string name="hdr_net_key">0</string>
     <boolean name="camera.front_torch_request" value="true" />
     <boolean name="camera.mts_full_res_ls" value="true" />
-    <string name="pv_ft_key">0</string>
+    <string name="pv_ft_key">1</string>
     <string name="dotfix_key_3">0</string>
     <string name="01EDC1FCA_a_3f80_0000_pthcr_key_0">1.0</string>
     <boolean name="camera.mts_12mp_ls" value="true" />
@@ -396,7 +404,7 @@
     <string name="user_nm_b2_key_1">1.0650013817119217E-5</string>
     <string name="user_nm_b2_key_2">1.1305916677508757E-4</string>
     <string name="user_nm_b2_key_0">1.5720105001759174E-7</string>
-    <string name="pref_camera_picturesize_back_key">4096x3072</string>
+    <string name="pref_camera_picturesize_back_key"></string>
     <string name="pref_camera_back_flashmode_key">off</string>
     <string name="pref_social_app_org_telegram_messenger">0</string>
     <string name="gawb_user_rg_h_key_3">0.547387</string>
@@ -447,7 +455,7 @@
     <string name="pref_af_mode_front">0</string>
     <boolean name="camcorder.animate_stab_button" value="true" />
     <boolean name="camera.gouda.matting_enabled" value="true" />
-    <long name="tooltip_latest_impression_timestamp_for_pref_ext_mic_bluetooth_chip_display_count" value="1689262349136" />
+    <long name="tooltip_latest_impression_timestamp_for_pref_ext_mic_bluetooth_chip_display_count" value="1689503000307" />
     <string name="pref_has_set_social_share_apps">1</string>
     <string name="user_nm_c0_key_3">2.9917133034145296E-11</string>
     <string name="pref_upgrade_version">24</string>
@@ -494,6 +502,7 @@
     <string name="gawb_user_bg_i_key_0"></string>
     <string name="pref_has_checked_measure_mode">0</string>
     <string name="pref_G_hue_3">0.0</string>
+    <string name="pref_camera_astro">1</string>
     <boolean name="mts_max_alt_1" value="true" />
     <boolean name="camera.enable_saliency_focus" value="false" />
     <boolean name="ripper_embedded" value="true" />
@@ -505,6 +514,7 @@
     <string name="gawb_user_bg_j_key_1"></string>
     <string name="dotfix_key_2">0</string>
     <string name="gawb_user_rg_f_key_0">0.879371</string>
+    <string name="CCT_WB_Offset_0">1.0</string>
     <string name="gawb_user_rg_f_key_2">1.000265</string>
     <string name="gawb_user_rg_f_key_1">1.055850</string>
     <string name="gawb_user_rg_f_key_3">0.939539</string>
@@ -528,11 +538,11 @@
     <string name="device_hdrplus_key_1">blueline</string>
     <boolean name="camera.ruler_zoom_slider" value="true" />
     <string name="device_hdrplus_key_0">blueline</string>
-    <string name="pref_camera_gawb_b_photo">1</string>
+    <string name="pref_camera_gawb_b_photo">0</string>
     <boolean name="camera.autotimer_accel_tpu" value="true" />
     <boolean name="camera.falcon_power_hint" value="true" />
     <boolean name="camera.adaptive_vesper" value="true" />
-    <int name="tooltip_impression_count_for_try_washington_tooltip" value="16" />
+    <int name="tooltip_impression_count_for_try_washington_tooltip" value="19" />
     <boolean name="camera.ddepth_rear" value="true" />
     <string name="slow_mo_fix_0">1</string>
     <string name="pref_release_dialog_last_shown_version"></string>
@@ -547,7 +557,7 @@
     <string name="surfase_list_key_0">3</string>
     <string name="surfase_list_key_2">3</string>
     <string name="surfase_list_key_1">3</string>
-    <int name="tooltip_impression_trigger_count_for_astro_smarts_chip" value="2" />
+    <int name="tooltip_impression_trigger_count_for_astro_smarts_chip" value="6" />
     <boolean name="camcorder.3a_metadata" value="true" />
     <int name="tooltip_impression_count_for_micro_tutorial_dismiss" value="1" />
     <string name="camcorder.max_zoom_hfr">7.0</string>
@@ -591,6 +601,7 @@
     <string name="ses_hdr10_id_key_0">61444</string>
     <string name="antibanding_key_0">4</string>
     <boolean name="scene_detection_enabled" value="true" />
+    <boolean name="pref_key_reboot_completed" value="true" />
     <string name="antibanding_key_1">4</string>
     <string name="026369DC_fmov_bf80_0000_pthcr_key_0">-1.0</string>
     <string name="antibanding_key_2">4</string>
@@ -680,15 +691,15 @@
     <string name="pref_has_checked_lens_mode">0</string>
     <boolean name="camera.immersive_cropped_aspect_ratio" value="true" />
     <boolean name="mn_enabled" value="true" />
-    <string name="pref_camera_dirty_lens_history_key0">-1.0102563|-8.793145|-7.2929435|-5.660037|-4.76803|-5.055246|-3.2933397|-5.0379167|-3.519939|-3.3093758|-5.085992|-3.8871348|-3.14389|-6.3078246|-6.165357|-3.6776817|-3.820536|-5.2950478|-5.802632|-0.28354973|-1.8898734|-3.0345972|-1.8255556|-2.989613|0.8739479|-0.11494119|1.8356818|-1.1731288|-0.47389284|-5.1850033|-2.9996657|-3.6114054|</string>
-    <string name="pref_camera_dirty_lens_history_key1">-7.517935|-1.7611283|-0.8840573|-3.1976194|-5.363564|4.0039983|-2.870068|-2.4653711|1.4522539|3.6352131|-2.8648112|-1.9223206|-2.4496818|</string>
-    <string name="pref_camera_dirty_lens_history_key2">-1.3972415|-1.1309391|-1.1686864|0.032008022|-0.4056204|-1.3059494|-1.3606905|-4.7831335|</string>
+    <string name="pref_camera_dirty_lens_history_key0">-8.070343|-7.0372334|-2.2555013|2.5282152|-4.5037932|-2.8789616|-5.490684|-0.31591582|-8.18151|1.4484129|-5.0581813|-4.449706|5.5001664|-4.0116262|-2.5486405|-7.865853|-5.821929|-8.250649|-6.008599|-6.362212|-7.2396474|-2.1523597|-2.9415607|-5.73782|-3.6078444|-4.0829053|-2.5691643|-3.490837|-1.6018127|-4.6322556|-1.8682402|-2.599445|</string>
+    <string name="pref_camera_dirty_lens_history_key1">4.0039983|-2.870068|-2.4653711|1.4522539|3.6352131|-2.8648112|-1.9223206|-2.4496818|-2.669184|-2.9038434|-2.26063|-2.1201117|5.6432424|-3.7987251|0.11819466|-0.32133478|0.95575213|-3.9974844|0.26395372|-3.6077528|-0.4729255|0.025527433|1.9804347|-0.6640092|-2.1538525|-3.5248213|-4.040244|-1.8870468|0.12553127|-2.2110693|0.2976078|-2.4900959|</string>
+    <string name="pref_camera_dirty_lens_history_key2">-4.8065395|-1.2589296|0.83112997|-4.6726975|-1.2161839|-3.7173839|-4.620195|-3.5958443|-2.423773|-7.2532926|-2.6594646|-5.7127137|3.3765595|-4.4222627|0.14847805|-4.85847|-0.2146832|-1.2346833|0.7703176|-5.8157363|-5.302351|-8.295339|-4.991996|2.5768638|6.228287|-0.7396439|-2.0550845|-2.6147096|-3.6104226|-4.9473047|-0.012136832|0.24312267|</string>
     <string name="lens_wl_key"></string>
-    <string name="pref_camera_dirty_lens_history_key3">-17.0|-2.0640993|4.504816|3.5418122|-1.5644808|-3.6761007|0.0068682507|</string>
+    <string name="pref_camera_dirty_lens_history_key3">-17.0|-2.0640993|4.504816|3.5418122|-1.5644808|-3.6761007|0.0068682507|2.999249|-0.26030457|-5.7043967|-0.11887716|-1.96357|0.057636812|-5.496623|0.77028674|2.8654919|</string>
     <string name="020C7004_fmov_3e80_0000_pthcr_key_0">0.25</string>
     <boolean name="camera.mts_smartcapturenet_2" value="true" />
     <string name="020C7004_fmov_3e80_0000_pthcr_key_1">0.25</string>
-    <string name="pref_video_resolution">RES_1080P</string>
+    <string name="pref_video_resolution">RES_8KUHD</string>
     <string name="user_nm_a2_key_3">2.682315890739256E-6</string>
     <string name="020C7004_fmov_3e80_0000_pthcr_key_2">0.25</string>
     <string name="gawb_user_bg_p_key_0"></string>
