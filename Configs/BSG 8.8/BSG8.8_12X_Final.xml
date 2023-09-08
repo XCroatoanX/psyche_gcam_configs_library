@@ -94,7 +94,7 @@
     <string name="01EDC210A_a_3f80_0000_pthcr_key_2">6.0</string>
     <string name="01EDC210A_a_3f80_0000_pthcr_key_1">7.0</string>
     <string name="gawb_user_rg_b_key_0">0.413309</string>
-    <string name="dev_setting_filter_key">ois</string>
+    <string name="dev_setting_filter_key">gouda</string>
     <string name="01EDC210A_a_3f80_0000_pthcr_key_3">9.0</string>
     <string name="gawb_user_rg_b_key_1">0.485780</string>
     <string name="gawb_user_rg_b_key_2">0.434539</string>
@@ -145,6 +145,7 @@
     <string name="gawb_user_rg_d_key_1">0.684480</string>
     <boolean name="pd_image_format_is_raw_depth10" value="true" />
     <string name="quality_auto_corrector_key_0">0</string>
+    <string name="camera.gouda.secondary_row_start">1</string>
     <string name="pref_mode_vesperad_option">0</string>
     <string name="quality_auto_corrector_key_1">0</string>
     <boolean name="camera.launch_vfe" value="true" />
@@ -170,6 +171,7 @@
     <boolean name="portrait_cpu_affinity" value="false" />
     <boolean name="camera.face_db_gpu" value="true" />
     <int name="tooltip_impression_count_for_catshark_toggle_tooltip" value="4" />
+    <boolean name="camera.gouda.allow_widest_front" value="true" />
     <boolean name="camcorder.1080p60_thr" value="true" />
     <string name="pref_camera_kepler_enabled_key">1</string>
     <string name="auto_ns_key">1</string>
@@ -189,7 +191,7 @@
     <string name="pref_camera_dynamic_depth_enabled_key">0</string>
     <string name="pref_has_shown_longp_education">0</string>
     <string name="01F65408_null_pthcr_key_0">0</string>
-    <string name="pref_camera_picturesize_front_key"></string>
+    <string name="pref_camera_picturesize_front_key">3264x2448</string>
     <boolean name="camcorder.log_3a" value="true" />
     <string name="pref_camera_grid_lines_mode">3</string>
     <string name="max_allowed_native_memory_mb">8192</string>
@@ -303,11 +305,13 @@
     <string name="face_retouching_hint">1</string>
     <string name="pref_switch_camera_command_string">47</string>
     <string name="gawb_user_bg_e_key_2">0.548474</string>
+    <string name="camera.gouda.secondary_raw_height">3096</string>
     <string name="pref_switch_to_next_mode_command_string">72</string>
     <string name="gawb_user_bg_e_key_3">0.500129</string>
     <string name="advice_total_exposure_threshold_front">1.3229325E7</string>
     <string name="pref_social_app_com_instagram_android">0</string>
     <string name="camera.af.jank_clip_margin">1.0</string>
+    <string name="camera.gouda.secondary_raw_width">4072</string>
     <string name="01EDD2B4E_null_pthcr_key_0"></string>
     <string name="01EDD2B4E_null_pthcr_key_1"></string>
     <boolean name="enable_sensitive_image_rotation" value="true" />
@@ -404,7 +408,7 @@
     <string name="user_nm_b2_key_1">1.0650013817119217E-5</string>
     <string name="user_nm_b2_key_2">1.1305916677508757E-4</string>
     <string name="user_nm_b2_key_0">1.5720105001759174E-7</string>
-    <string name="pref_camera_picturesize_back_key"></string>
+    <string name="pref_camera_picturesize_back_key">4096x3072</string>
     <string name="pref_camera_back_flashmode_key">off</string>
     <string name="pref_social_app_org_telegram_messenger">0</string>
     <string name="gawb_user_rg_h_key_3">0.547387</string>
@@ -568,6 +572,7 @@
     <string name="google_id_key_0"></string>
     <string name="google_id_key_1"></string>
     <boolean name="camera.micro_full_color_range" value="true" />
+    <boolean name="camera.gouda.raw" value="true" />
     <string name="google_id_key_2"></string>
     <string name="01EDC0A0E_a_4120_0000_pthcr_key_2">10.0</string>
     <string name="01EDC1E8A_a_3f80_0000_pthcr_key_0">1.0</string>
@@ -691,8 +696,8 @@
     <string name="pref_has_checked_lens_mode">0</string>
     <boolean name="camera.immersive_cropped_aspect_ratio" value="true" />
     <boolean name="mn_enabled" value="true" />
-    <string name="pref_camera_dirty_lens_history_key0">-4.5037932|-2.8789616|-5.490684|-0.31591582|-8.18151|1.4484129|-5.0581813|-4.449706|5.5001664|-4.0116262|-2.5486405|-7.865853|-5.821929|-8.250649|-6.008599|-6.362212|-7.2396474|-2.1523597|-2.9415607|-5.73782|-3.6078444|-4.0829053|-2.5691643|-3.490837|-1.6018127|-4.6322556|-1.8682402|-2.599445|-4.3934116|-2.5347865|-6.057877|-2.8707867|</string>
-    <string name="pref_camera_dirty_lens_history_key1">4.0039983|-2.870068|-2.4653711|1.4522539|3.6352131|-2.8648112|-1.9223206|-2.4496818|-2.669184|-2.9038434|-2.26063|-2.1201117|5.6432424|-3.7987251|0.11819466|-0.32133478|0.95575213|-3.9974844|0.26395372|-3.6077528|-0.4729255|0.025527433|1.9804347|-0.6640092|-2.1538525|-3.5248213|-4.040244|-1.8870468|0.12553127|-2.2110693|0.2976078|-2.4900959|</string>
+    <string name="pref_camera_dirty_lens_history_key0">-8.18151|1.4484129|-5.0581813|-4.449706|5.5001664|-4.0116262|-2.5486405|-7.865853|-5.821929|-8.250649|-6.008599|-6.362212|-7.2396474|-2.1523597|-2.9415607|-5.73782|-3.6078444|-4.0829053|-2.5691643|-3.490837|-1.6018127|-4.6322556|-1.8682402|-2.599445|-4.3934116|-2.5347865|-6.057877|-2.8707867|-0.6101421|-3.5593145|-6.866315|-6.5081334|</string>
+    <string name="pref_camera_dirty_lens_history_key1">-2.4653711|1.4522539|3.6352131|-2.8648112|-1.9223206|-2.4496818|-2.669184|-2.9038434|-2.26063|-2.1201117|5.6432424|-3.7987251|0.11819466|-0.32133478|0.95575213|-3.9974844|0.26395372|-3.6077528|-0.4729255|0.025527433|1.9804347|-0.6640092|-2.1538525|-3.5248213|-4.040244|-1.8870468|0.12553127|-2.2110693|0.2976078|-2.4900959|0.27591884|-3.6090832|</string>
     <string name="pref_camera_dirty_lens_history_key2">-4.8065395|-1.2589296|0.83112997|-4.6726975|-1.2161839|-3.7173839|-4.620195|-3.5958443|-2.423773|-7.2532926|-2.6594646|-5.7127137|3.3765595|-4.4222627|0.14847805|-4.85847|-0.2146832|-1.2346833|0.7703176|-5.8157363|-5.302351|-8.295339|-4.991996|2.5768638|6.228287|-0.7396439|-2.0550845|-2.6147096|-3.6104226|-4.9473047|-0.012136832|0.24312267|</string>
     <string name="lens_wl_key"></string>
     <string name="pref_camera_dirty_lens_history_key3">-17.0|-2.0640993|4.504816|3.5418122|-1.5644808|-3.6761007|0.0068682507|2.999249|-0.26030457|-5.7043967|-0.11887716|-1.96357|0.057636812|-5.496623|0.77028674|2.8654919|</string>
