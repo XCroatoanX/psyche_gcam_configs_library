@@ -128,7 +128,7 @@
     <string name="ses_120fps_id_key_1"></string>
     <string name="ses_120fps_id_key_3"></string>
     <long name="tooltip_latest_impression_timestamp_for_auto_timelapse_tooltip" value="1687445777752" />
-    <string name="pref_video_stab_button_untouched_count">8</string>
+    <string name="pref_video_stab_button_untouched_count">1</string>
     <string name="ses_120fps_id_key_0"></string>
     <string name="pref_social_app_com_google_android_apps_messaging">0</string>
     <boolean name="autotimer_tutorial_shown" value="true" />
@@ -145,7 +145,6 @@
     <string name="gawb_user_rg_d_key_1">0.684480</string>
     <boolean name="pd_image_format_is_raw_depth10" value="true" />
     <string name="quality_auto_corrector_key_0">0</string>
-    <string name="camera.gouda.secondary_row_start">1</string>
     <string name="pref_mode_vesperad_option">0</string>
     <string name="quality_auto_corrector_key_1">0</string>
     <boolean name="camera.launch_vfe" value="true" />
@@ -206,8 +205,8 @@
     <string name="gawb_user_bg_d_key_0">0.431087</string>
     <string name="max_allowed_allocator_memory_mb">8192</string>
     <string name="pref_camera_gawb_b_portrait">0</string>
-    <string name="gouda_doubletap_zoom_factor">1.0</string>
-    <int name="tooltip_impression_count_for_pref_ext_mic_bluetooth_chip_display_count" value="58" />
+    <string name="gouda_doubletap_zoom_factor">2.0</string>
+    <int name="tooltip_impression_count_for_pref_ext_mic_bluetooth_chip_display_count" value="60" />
     <string name="026369E4_fmov_4108_0000_pthcr_key_3">8.5</string>
     <string name="026369E4_fmov_4108_0000_pthcr_key_2">8.5</string>
     <string name="026369E4_fmov_4108_0000_pthcr_key_1">8.5</string>
@@ -305,13 +304,11 @@
     <string name="face_retouching_hint">1</string>
     <string name="pref_switch_camera_command_string">47</string>
     <string name="gawb_user_bg_e_key_2">0.548474</string>
-    <string name="camera.gouda.secondary_raw_height">3096</string>
     <string name="pref_switch_to_next_mode_command_string">72</string>
     <string name="gawb_user_bg_e_key_3">0.500129</string>
     <string name="advice_total_exposure_threshold_front">1.3229325E7</string>
     <string name="pref_social_app_com_instagram_android">0</string>
     <string name="camera.af.jank_clip_margin">1.0</string>
-    <string name="camera.gouda.secondary_raw_width">4072</string>
     <string name="01EDD2B4E_null_pthcr_key_0"></string>
     <string name="01EDD2B4E_null_pthcr_key_1"></string>
     <boolean name="enable_sensitive_image_rotation" value="true" />
@@ -320,7 +317,7 @@
     <string name="01EDD2B4E_null_pthcr_key_3"></string>
     <string name="pref_satCCT_R_2">1.0</string>
     <string name="pref_satCCT_R_3">1.0</string>
-    <string name="gouda_default_zoom_factor_back">1.0</string>
+    <string name="gouda_default_zoom_factor_back">2.0</string>
     <string name="pref_update_available_chip_dismissal_times">0</string>
     <string name="gawb_user_rg_l_key_3"></string>
     <string name="user_nm_d1_key_2">5.20499900065705E-7</string>
@@ -359,7 +356,7 @@
     <string name="pref_satCCT_B_0">1.0</string>
     <boolean name="camera.auto_fps_default" value="false" />
     <string name="pref_satCCT_B_1">1.0</string>
-    <long name="tooltip_latest_impression_timestamp_for_try_washington_tooltip" value="1689786995351" />
+    <long name="tooltip_latest_impression_timestamp_for_try_washington_tooltip" value="1694457269635" />
     <string name="gawb_user_bg_c_key_3">0.397358</string>
     <string name="gawb_user_bg_c_key_2">0.458371</string>
     <string name="gawb_user_bg_c_key_1">0.366150</string>
@@ -397,6 +394,7 @@
     <string name="gawb_user_bg_g_key_2">0.692342</string>
     <string name="gawb_user_bg_g_key_3">0.56478</string>
     <string name="quality_enh_corrector_key_2">0</string>
+    <boolean name="camcorder.ois" value="true" />
     <string name="quality_enh_corrector_key_3">0</string>
     <boolean name="translate_edu" value="true" />
     <string name="gawb_user_bg_l_key_3"></string>
@@ -459,7 +457,7 @@
     <string name="pref_af_mode_front">0</string>
     <boolean name="camcorder.animate_stab_button" value="true" />
     <boolean name="camera.gouda.matting_enabled" value="true" />
-    <long name="tooltip_latest_impression_timestamp_for_pref_ext_mic_bluetooth_chip_display_count" value="1689503000307" />
+    <long name="tooltip_latest_impression_timestamp_for_pref_ext_mic_bluetooth_chip_display_count" value="1694457269479" />
     <string name="pref_has_set_social_share_apps">1</string>
     <string name="user_nm_c0_key_3">2.9917133034145296E-11</string>
     <string name="pref_upgrade_version">24</string>
@@ -474,6 +472,7 @@
     <string name="pref_video_fps_4k_key">FPS_60</string>
     <string name="0217AFD8_null_pthcr_key_3">4096</string>
     <string name="0217AFD8_null_pthcr_key_2">4096</string>
+    <string name="pref_first_time_video_stab_edu">1</string>
     <string name="hwlevel_key">6</string>
     <string name="0217AFD8_null_pthcr_key_1">4096</string>
     <string name="0217AFD8_null_pthcr_key_0">4096</string>
@@ -546,7 +545,7 @@
     <boolean name="camera.autotimer_accel_tpu" value="true" />
     <boolean name="camera.falcon_power_hint" value="true" />
     <boolean name="camera.adaptive_vesper" value="true" />
-    <int name="tooltip_impression_count_for_try_washington_tooltip" value="19" />
+    <int name="tooltip_impression_count_for_try_washington_tooltip" value="20" />
     <boolean name="camera.ddepth_rear" value="true" />
     <string name="slow_mo_fix_0">1</string>
     <string name="pref_release_dialog_last_shown_version"></string>
@@ -572,7 +571,7 @@
     <string name="google_id_key_0"></string>
     <string name="google_id_key_1"></string>
     <boolean name="camera.micro_full_color_range" value="true" />
-    <boolean name="camera.gouda.raw" value="true" />
+    <boolean name="camera.gouda.raw" value="false" />
     <string name="google_id_key_2"></string>
     <string name="01EDC0A0E_a_4120_0000_pthcr_key_2">10.0</string>
     <string name="01EDC1E8A_a_3f80_0000_pthcr_key_0">1.0</string>
@@ -696,8 +695,8 @@
     <string name="pref_has_checked_lens_mode">0</string>
     <boolean name="camera.immersive_cropped_aspect_ratio" value="true" />
     <boolean name="mn_enabled" value="true" />
-    <string name="pref_camera_dirty_lens_history_key0">-8.18151|1.4484129|-5.0581813|-4.449706|5.5001664|-4.0116262|-2.5486405|-7.865853|-5.821929|-8.250649|-6.008599|-6.362212|-7.2396474|-2.1523597|-2.9415607|-5.73782|-3.6078444|-4.0829053|-2.5691643|-3.490837|-1.6018127|-4.6322556|-1.8682402|-2.599445|-4.3934116|-2.5347865|-6.057877|-2.8707867|-0.6101421|-3.5593145|-6.866315|-6.5081334|</string>
-    <string name="pref_camera_dirty_lens_history_key1">-2.4653711|1.4522539|3.6352131|-2.8648112|-1.9223206|-2.4496818|-2.669184|-2.9038434|-2.26063|-2.1201117|5.6432424|-3.7987251|0.11819466|-0.32133478|0.95575213|-3.9974844|0.26395372|-3.6077528|-0.4729255|0.025527433|1.9804347|-0.6640092|-2.1538525|-3.5248213|-4.040244|-1.8870468|0.12553127|-2.2110693|0.2976078|-2.4900959|0.27591884|-3.6090832|</string>
+    <string name="pref_camera_dirty_lens_history_key0">-0.31591582|-8.18151|1.4484129|-5.0581813|-4.449706|5.5001664|-4.0116262|-2.5486405|-7.865853|-5.821929|-8.250649|-6.008599|-6.362212|-7.2396474|-2.1523597|-2.9415607|-5.73782|-3.6078444|-4.0829053|-2.5691643|-3.490837|-1.6018127|-4.6322556|-1.8682402|-2.599445|-4.3934116|-2.5347865|-6.057877|-2.8707867|-3.2867398|1.4958369|-7.649883|</string>
+    <string name="pref_camera_dirty_lens_history_key1">4.0039983|-2.870068|-2.4653711|1.4522539|3.6352131|-2.8648112|-1.9223206|-2.4496818|-2.669184|-2.9038434|-2.26063|-2.1201117|5.6432424|-3.7987251|0.11819466|-0.32133478|0.95575213|-3.9974844|0.26395372|-3.6077528|-0.4729255|0.025527433|1.9804347|-0.6640092|-2.1538525|-3.5248213|-4.040244|-1.8870468|0.12553127|-2.2110693|0.2976078|-2.4900959|</string>
     <string name="pref_camera_dirty_lens_history_key2">-4.8065395|-1.2589296|0.83112997|-4.6726975|-1.2161839|-3.7173839|-4.620195|-3.5958443|-2.423773|-7.2532926|-2.6594646|-5.7127137|3.3765595|-4.4222627|0.14847805|-4.85847|-0.2146832|-1.2346833|0.7703176|-5.8157363|-5.302351|-8.295339|-4.991996|2.5768638|6.228287|-0.7396439|-2.0550845|-2.6147096|-3.6104226|-4.9473047|-0.012136832|0.24312267|</string>
     <string name="lens_wl_key"></string>
     <string name="pref_camera_dirty_lens_history_key3">-17.0|-2.0640993|4.504816|3.5418122|-1.5644808|-3.6761007|0.0068682507|2.999249|-0.26030457|-5.7043967|-0.11887716|-1.96357|0.057636812|-5.496623|0.77028674|2.8654919|</string>
