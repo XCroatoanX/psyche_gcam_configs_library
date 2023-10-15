@@ -5,6 +5,7 @@ Welcome to the library of all collected configs for the Xiaomi 12X!
 | Camera | Config | Needed Lib |
 | ------ | ------ | ---------- |
 | **BSG 8.8** | BSG_8.8 | hanx13_X88.so |
+| **BSG 8.9** | BSG_8.9 | |
 | | | |
 | **LMC R12** | HASSElBlAD_PRO_12X | Hasselblad_LMC_12X |
 | | ARGO_PRO_12X | Arcide_12X |
